@@ -8,8 +8,7 @@ authorurl: http://twitter.com/geoffreyhuntley
 gravatar: 23d4d2451f74764e095f15a739b68a4e
 ---
 
-Maybe I've been attending the wrong meetups here in Sydney but I can't scratch the feeling that there's something wrong with the standard format. A couple presentations, free booze and free food. Ugh. It's all consumption driven with very little attendee participation. Over the last couple years I've dramatically scaled back my attendance to such meetups because there are better sources to obtain knowledge in the world of unlimited opporunities that is open-source because
-the standard pace is for chumps, if you’re more driven than “just anyone” - [you can do so much more than anyone expects](https://sivers.org/kimo).
+Maybe I've been attending the wrong meetups here in Sydney but I can't scratch the feeling that there's something wrong with the standard format. A couple presentations, free booze and free food. Ugh. It's all consumption driven with very little attendee participation. Over the last couple years I've dramatically scaled back my attendance to such meetups because there are better sources to obtain knowledge in the world of unlimited opportunities that is open-source. The standard pace is for chumps, if you’re more driven than “just anyone” - [you can do so much more than anyone expects](https://sivers.org/kimo).
 
 <!--excerpt-->
 
@@ -50,7 +49,6 @@ Intriguing huh?
 
 Links:
 
-- This post contains sections from [becoming foolish](https://hmemcpy.com/2017/10/becoming-foolish/) by Igal Tabachnik.
 - [Meetup event page](http://www.meetup.com/SydneyHaskell/)
 - [Readify](https://join.readify.net/?source=StaffReferral&campaign=geoffrey.huntley) (Our event venue host)
 - [When standing as a group of people, always leave room for 1 person to join your group.](
@@ -59,3 +57,4 @@ http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/)
 - [Spaced repetition is the most effective way to learn.](https://knowledgeplus.nejm.org/blog/spaced-repetition-the-most-effective-way-to-learn/)
 - [The standard pace is for chumps. There’s no speed limit. (The lessons that changed my life)](https://sivers.org/kimo)
 - [Always be shipping. One of the best secrets to success is simply finishing what you started.](https://matthewforzan.com.au/productivity/always-be-shipping/)
+- This post contains sections from [becoming foolish](https://hmemcpy.com/2017/10/becoming-foolish/) by Igal Tabachnik.
