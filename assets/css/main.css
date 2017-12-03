@@ -1,5 +1,5 @@
 /*
- * URL: http://ny-haskell.org
+ * URL: http://sydneyhaskell.org
  *
  * Project Name: Modified from SHIELD - Free Bootstrap 3 Theme
  * Original credits to Carlos Alverez http://Alvarez.is
@@ -277,7 +277,7 @@ a:after {
 	background-attachment: relative;
 	background-position: center center;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -389,7 +389,7 @@ a:after {
     background-size: cover;
 
     background-attachment: relative;
-    
+
     text-align: center;
 }
 
@@ -407,34 +407,30 @@ a:after {
 
 /* Section Dividers Backgrounds */
 
-.divider1 {
-	background-image: url('../img/bg/divider2.jpg');
+.divider-sydney {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/assets/img/bg/sydney.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.divider-audience {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/assets/img/bg/audience.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.divider-audience-blurred {
+    background-image: url('/assets/img/bg/audience.jpg');
     filter: blur(2px);
     -webkit-filter: blur(2px);
     -moz-filter: blur(2px);
     -o-filter: blur(2px);
     -ms-filter: blur(2px);
 }
-
-.divider2 {
-}
-
-.divider3 {
-	background-image: url('../img/bg/divider3.jpg');
-	margin-top: 0px;
-}
-
-.divider4 {
-  background-color: #bcbfbd;
-	background-image: url('../img/bg/divider3.jpg');
-
-}
-
-.divider6 {
-	background-image: url('../img/bg/divider6.jpg')
-}
-
-
 
 /* ==========================================================================
    Services Section
@@ -521,7 +517,7 @@ a:after {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-	
+
 }
 
 .grid figcaption a {
@@ -596,7 +592,7 @@ a:after {
 	background: #2b2b2b;
 	padding-right: 0px;
 	padding-left: 0px;
-	
+
 }
 
 .blog-bg h4 {

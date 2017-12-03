@@ -1,4 +1,4 @@
-# ny-haskell.org
+# sydneyhaskell.org
 
 This site is created with jekyll, a static site generator. One day we might have a haskell version of the site, but until then here are the instructions for contributing to the repo!
 
@@ -15,7 +15,7 @@ Github pages explains how to install jekyll to run locally on your machine. You 
 
 ## Contributing
 
-You can check the [issue tracker](https://github.com/ny-haskell/ny-haskell.org/issues) for ideas, or you can write up a blog post and submit it with a pull request. 
+You can check the [issue tracker](https://github.com/sydneyhaskell/usergroup/issues) for ideas, or you can write up a blog post and submit it with a pull request.
 
 ### Site Structure
 
@@ -38,5 +38,5 @@ Video links are organized under the `_data/videos.json` file. We don't host the 
 
 ### Blog posts
 
-When you write blog posts, include the file under the `_posts` directory. Some things you can write about include: NY-Haskell events you've attended, your favorite haskell libraries, tutorials on how to use libraries, or even installation and setup tips. 
+When you write blog posts, include the file under the `_posts` directory. Some things you can write about include: sydneyhaskell events you've attended, your favorite haskell libraries, tutorials on how to use libraries, or even installation and setup tips.
 
