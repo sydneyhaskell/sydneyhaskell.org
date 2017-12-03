@@ -11,7 +11,7 @@ footer-links:
 
 # google_analytics:
 url: http://sydneyhaskell.org
-
+repository_url: https://github.com/sydneyhaskell/sydneyhaskell.org
 
 kramdown:
   input: GFM
