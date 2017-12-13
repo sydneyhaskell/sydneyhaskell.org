@@ -8,6 +8,10 @@ Name: Amy Wong
 Twitter: @columbawong
 From: Sydney, Australia
 
+Name: Alex Smith
+Twitter: -
+From: Sydney, Australia
+
 /* B */
 
 /* C */
