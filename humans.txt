@@ -48,6 +48,10 @@ Name: Madura Dias
 Twitter: 
 From: Sydney, Australia
 
+Name: Michael O'Ryan
+Twitter: 
+From: Sydney, Australia
+
 /* N */
 Name: Neil Lock
 Twitter: @lockoncode
