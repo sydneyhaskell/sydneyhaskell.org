@@ -4,5 +4,4 @@ The Sydney Haskell documentation contains a number of resources to help you unde
 * [Concepts](concepts) provide a deep understanding of how Haskell works.
 * [Tasks](tasks) contain step-by-step instructions for common Haskell tasks.
 * [Tutorials](tutorials) contain detailed walkthroughs of using Haskell.
-
-# Installing/Setting Up Haskell
+* [Tools](tools) contains a list of native and third-party tools for Haskell.
