@@ -1,4 +1,4 @@
-# Concepts, Tasks, and Tutorials
+# Concepts, Tasks, Tutorials and Tools
 The Sydney Haskell documentation contains a number of resources to help you understand and work with Haskell.
 
 * [Concepts](concepts) provide a deep understanding of how Haskell works.
