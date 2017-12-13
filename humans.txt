@@ -4,7 +4,9 @@ Name:
 Twitter: 
 From: Sydney, Australia
 
-/* A */
+Name: Amy Wong
+Twitter: @columbawong
+From: Sydney, Australia
 
 Name: Alex Smith
 Twitter: -
@@ -15,7 +17,7 @@ From: Sydney, Australia
 /* C */
 
 /* D */
-
+ 
 /* E */
 
 /* F */
@@ -32,11 +34,36 @@ From: Sydney, Australia
 
 /* J */
 
+/* K */
+
+Name: Kranium Gikos Mendoza
+Twitter: @womfoo
+From: Sydney, Australia
+
 /* L */
 
 /* M */
 
+Name: Michael John Peña
+Twitter: @mjtpena
+From: Sydney, Australia
+
+Name: Madura Dias
+Twitter: 
+From: Sydney, Australia
+
+Name: Michael O'Ryan
+Twitter: 
+From: Sydney, Australia
+
 /* N */
+Name: Neil Lock
+Twitter: @lockoncode
+From: Sydney, Australia
+
+Name: Nabeen Khadka
+Twitter: @nabn_
+From: Sydney / Kathmandu
 
 /* O */
 
@@ -44,13 +71,24 @@ From: Sydney, Australia
 
 /* Q */
 
-/* U */
-
 /* R */
+
+Github: ronniels92372
 
 /* S */
 
+Name: Sudhanshu Mishra
+Twitter: @sudhanshutheone
+
+Name: Stafford Williams 
+Twitter: staff0rd
+
+From: Sydney, Australia
+
 /* T */
+
+Name: Tim Adamson
+From: Sydney, Australia
 
 /* U */
 
