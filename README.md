@@ -40,3 +40,5 @@ Video links are organized under the `_data/videos.json` file. We don't host the 
 
 When you write blog posts, include the file under the `_posts` directory. Some things you can write about include: sydneyhaskell events you've attended, your favorite haskell libraries, tutorials on how to use libraries, or even installation and setup tips.
 
+### Slack
+Real-time comms on slack; [Slack invite]( https://join.slack.com/t/sydneyhaskell/shared_invite/enQtMjg2Nzc4NDgwMTM0LTBmOTVkMDc0N2Q0M2QyMTg1Y2FlZWMxNTM2MzcyMWUxMjRjMGYyMThlMzc3ZWUyZGI2ZWQ4ZTE3MjIwNjYwM2Q)
