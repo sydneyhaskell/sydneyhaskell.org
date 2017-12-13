@@ -4,7 +4,9 @@ Name:
 Twitter: 
 From: Sydney, Australia
 
-/* A */
+Name: Amy Wong
+Twitter: @columbawong
+From: Sydney, Australia
 
 /* B */
 
