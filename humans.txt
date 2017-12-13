@@ -8,17 +8,9 @@ Name: Amy Wong
 Twitter: @columbawong
 From: Sydney, Australia
 
-Name: Alex Smith
-Twitter: -
-From: Sydney, Australia
-
 /* B */
 
 /* C */
-
-Name: Corey Knight
-From: Sydney
-Has watched Breaking Bad: yes
 
 /* D */
 
@@ -46,6 +38,10 @@ Name: Michael John Peña
 Twitter: @mjtpena
 From: Sydney, Australia
 
+Name: Madura Dias
+Twitter: 
+From: Sydney, Australia
+
 /* N */
 
 /* O */
@@ -57,9 +53,7 @@ From: Sydney, Australia
 /* U */
 
 /* R */
-Name: Ratheesh Mohan
-Twitter: 
-From: Sydney, Australia
+
 /* S */
 
 Name: Stafford Williams 
