@@ -10,6 +10,9 @@
 
 .navbar-brand {
   float: left;
+  font-family: Raleway;
+  font-weight: 300;
+  text-transform: uppercase;
   font-size: 18px;
   height: 70px;
   padding-top: 25px;
